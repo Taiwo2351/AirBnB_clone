@@ -51,7 +51,8 @@ Documented commands (type help <topic>):
 EOF  help  quit  create  destroy  show  all  update
 $
 
-Authors
-Name			GitHub username
-AKINS TUNDE KOLA	tundelakins
-IDOWU TAIWO JOHN	Taiwo2351
+## Authors
+| Name | GitHub username |
+| ------ | ------ |
+| Idowu Taiwo| [Taiwo2351](https://github.com/Taiwo2351) |
+| Akins Tunde Kola  | [tundelakins](https://github.com/tundelakins) |
