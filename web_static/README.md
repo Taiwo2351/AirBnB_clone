@@ -62,5 +62,5 @@ $
 ## Authors
 | Name | GitHub username |
 | ------ | ------ |
-| Idowu Taiwo| [Taiwo2351]([https://github.com/Taiwo2351]) |
-| Akins Tunde Kola  | [tundelakins]([https://github.com/tundelakins]) |
+| Idowu Taiwo| [Taiwo2351](https://github.com/Taiwo2351) |
+| Akins Tunde Kola  | [tundelakins](https://github.com/tundelakins) |
